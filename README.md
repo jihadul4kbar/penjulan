@@ -1,0 +1,2 @@
+# penjulan
+Penjualan sederhana
